@@ -1,4 +1,4 @@
-# labspy03
+# labpy03
 Alur Algoritma
 1.	latihan1 User menginput bilangan N yang mana berisi angka random dan akan sampai berapa kali proses tersebut di ulang contoh " 5 " maka akan di lakukan perulangan sampai 5x, lalu di proses dengan pengulangan for agar dapat melakukan pengulangan sampai dengan angka yang di inginkan oleh user dan di mulai dari angka 0 serta di tutup dengan ucapan selesai.
 
